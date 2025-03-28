@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this file added in remote repository
+=======
+this file is added in featured branch
+>>>>>>> fb1
